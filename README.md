@@ -1,1 +1,1 @@
-Đây là README từ nhánh main.
+Đây là README đã hợp nhất từ cả hai nhánh.
