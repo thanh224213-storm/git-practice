@@ -1,2 +1,1 @@
-# Git Practice
-Giới thiệu: Tôi là Quách Phú Thành, MSSV 224213.
+Đây là README từ nhánh conflict-demo.
