@@ -1,1 +1,5 @@
+HEAD
 Shared line: main version
+=======
+Shared line: feature version
+>>>>>>> b965e35 (Add feature.md and shared.txt on feature-branch)
